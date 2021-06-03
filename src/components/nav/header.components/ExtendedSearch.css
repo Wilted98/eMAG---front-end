@@ -1,0 +1,19 @@
+.customModal {
+  max-width: 600px;
+  width: 100%;
+  border-radius: 1rem;
+  border: solid 2px #3c99dc;
+  padding: 8px;
+  margin-right: 280px;
+  margin-top: 21px;
+}
+
+.modalWithBurger {
+  max-width: 600px;
+  width: 100%;
+  border-radius: 1rem;
+  margin-right: 256px;
+  border: solid 2px #3c99dc;
+  padding: 8px;
+  margin-top: 13px;
+}
